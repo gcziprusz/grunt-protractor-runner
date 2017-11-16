@@ -1,20 +1,13 @@
 {
-  "name": "grunt-protractor-runner",
-  "description": "A Grunt plugin for running protractor runner.",
-  "version": "5.0.0",
-  "homepage": "https://github.com/teerapap/grunt-protractor-runner",
+  "name": "torbit-grunt-protractor-runner",
+  "description": "A Torbit's fork of the grunt plugin for running protractor runner with added support for 'protractor grep'.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gcziprusz/grunt-protractor-runner.git",
   "author": {
-    "name": "Teerapap Changwichukarn",
-    "email": "teerapap.c@gmail.com"
+    "name": "GabrielCziprusz",
+    "email": "gcziprusz@walmartlabs.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/teerapap/grunt-protractor-runner.git"
-  },
-  "bugs": {
-    "url": "https://github.com/teerapap/grunt-protractor-runner/issues"
-  },
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 6.9.4"
