@@ -1,7 +1,7 @@
 {
   "name": "@walmart/torbit-grunt-protractor-runner",
   "description": "A Torbit's fork of the grunt plugin for running protractor runner with added support for 'protractor grep'.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/gcziprusz/grunt-protractor-runner.git",
   "author": {
     "name": "Gabriel Cziprusz",
@@ -28,6 +28,10 @@
   },
   "peerDependencies": {
     "grunt": ">=0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/gcziprusz/grunt-protractor-runner.git"
   },
   "keywords": [
     "gruntplugin",
